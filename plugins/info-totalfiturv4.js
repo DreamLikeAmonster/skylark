@@ -1,0 +1,23 @@
+/*SC ini saya enc Karena banyak menunya
+kalo mau no enc buy aja dibawah 80k kok
+
+minat? chat gw link dibawah
+https://wa.me/message/4ICSHEOTP4ESK1
+
+yt gua 
+https://youtube.com/@FinzOfc
+
+Sc by FaisalXD
+Â©2023
+
+join gc juga ngab
+https://chat.whatsapp.com/FhQs14wsNkd45D6M85osAW
+
+ðŸ‘¤bang enc apa?
+ðŸ‘‘sc nya ga bisa di apa apa in cuy artinya ga bisa di ubah
+ðŸ‘‘buy aja ngab murah kok chat wa gua 6283134409906
+
+JANGAN DI UBAH
+NANTI ERROR!!!
+**/
+(function(_0x1f78af,_0x53a05a){const _0x34201d=_0xa416,_0x184a4d=_0x1f78af();while(!![]){try{const _0x4c7dee=-parseInt(_0x34201d(0xa1))/0x1+parseInt(_0x34201d(0x96))/0x2+parseInt(_0x34201d(0x8d))/0x3+-parseInt(_0x34201d(0x92))/0x4*(parseInt(_0x34201d(0xa0))/0x5)+parseInt(_0x34201d(0xa3))/0x6*(parseInt(_0x34201d(0xac))/0x7)+-parseInt(_0x34201d(0x90))/0x8+parseInt(_0x34201d(0xa7))/0x9;if(_0x4c7dee===_0x53a05a)break;else _0x184a4d['push'](_0x184a4d['shift']());}catch(_0x36270d){_0x184a4d['push'](_0x184a4d['shift']());}}}(_0x2817,0x1db65));import _0x3941e1 from'node-fetch';import _0x217f03 from'fs';import{bucin}from'@bochilteam/scraper';function _0xa416(_0x2f53d7,_0x234a60){const _0x28175d=_0x2817();return _0xa416=function(_0xa416e5,_0x17b9e4){_0xa416e5=_0xa416e5-0x8c;let _0x1d1281=_0x28175d[_0xa416e5];return _0x1d1281;},_0xa416(_0x2f53d7,_0x234a60);}import _0xbcab29 from'moment-timezone';let handler=async(_0x48215c,{conn:_0x303f4d,args:_0x3603c1,command:_0x4fa212})=>{const _0x35b497=_0xa416;let _0x357d8a=Object[_0x35b497(0x94)](global[_0x35b497(0x99)])[_0x35b497(0x98)](_0x33002c=>_0x33002c['help']&&_0x33002c['tags'])['length'],_0x4f4d40=_0x303f4d[_0x35b497(0x9f)](_0x48215c[_0x35b497(0x9e)]),_0x59d677='TOTAL\x20BY:\x20FAISALDEV',_0x1025f4=''+_0x357d8a;await _0x48215c[_0x35b497(0xab)](md);let _0x380226='text\x20nya\x20',_0x36968d=['https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',_0x35b497(0xad),_0x35b497(0x91),_0x35b497(0xa5),'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='],_0x16a463=await bucin(),_0x2296ed=_0x35b497(0xa6)+_0x357d8a+'\x0a\x0a\x0a*Bucin:*\x20'+_0x16a463,_0x30bd33=ucapan()+'\x20'+_0x4f4d40;_0x303f4d[_0x35b497(0x95)](_0x48215c['chat'],''+pickRandom(_0x36968d)+(_0x59d677+'\x20')+('\x0a'+_0x1025f4),_0x30bd33,_0x2296ed,_0x35b497(0x8e),_0x35b497(0x8f),_0x35b497(0x9a),_0x35b497(0x93),'Credit','.credit',_0x48215c,{'contextInfo':{'externalAdReply':{'showAdAttribution':!![],'mediaUrl':_0x35b497(0x8c),'mediaType':tautanwa,'description':tautanwa,'title':'Total\x20Cintaku\x20Padamu','body':bottime,'thumbnail':_0x217f03[_0x35b497(0x9c)](_0x35b497(0x97)),'sourceUrl':syt}}});};handler['command']=['totav4'];export default handler;function ucapan(){const _0x45f82a=_0xa416,_0x32065e=_0xbcab29['tz'](_0x45f82a(0xa4))['format']('HH');let _0x4fe500=_0x45f82a(0xaa);return _0x32065e>=0x4&&(_0x4fe500=_0x45f82a(0x9d)),_0x32065e>=0xa&&(_0x4fe500=_0x45f82a(0xa9)),_0x32065e>=0xf&&(_0x4fe500=_0x45f82a(0x9b)),_0x32065e>=0x12&&(_0x4fe500=_0x45f82a(0xaa)),_0x4fe500;}function _0x2817(){const _0x4916f2=['./media/menu.jpg','filter','plugins','Owner','Selamat\x20Sore','readFileSync','Selamat\x20Pagi','sender','getName','439225fmysmp','141066IXGcLN','floor','10686fWrydR','Asia/Jakarta','https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=','Total\x20Fitur\x20Bot\x20Saat\x20ini:','2961648mCLtoT','length','Selamat\x20Siang','Selamat\x20Malam','reply','364iruXZp','https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=','tautanwa','526257CavsUu','Menu','.menu','1286920GbvxDA','https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=','8wwKLHN','.owner','values','send3ButtonImg','4438ODgmol'];_0x2817=function(){return _0x4916f2;};return _0x2817();}function pickRandom(_0x4bff66){const _0x4bacd0=_0xa416;return _0x4bff66[Math[_0x4bacd0(0xa2)](Math['random']()*_0x4bff66[_0x4bacd0(0xa8)])];}
